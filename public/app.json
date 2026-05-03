@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Deshi Shahi Cow",
+    "type": "Cow",
+    "breed": "Local Deshi",
+    "price": 120000,
+    "weight": 280,
+    "age": 3,
+    "location": "Bogura",
+    "description": "Healthy deshi cow suitable for Qurbani. Well fed with natural food.",
+    "image": "https://i.ibb.co.com/R4SH5mpJ/pngtree-holstein-cow-png-image-20610191.png",
+    "category": "Large Animal"
+  },
+  {
+    "id": 2,
+    "name": "Premium Black Goat",
+    "type": "Goat",
+    "breed": "Jamunapari Mix",
+    "price": 45000,
+    "weight": 35,
+    "age": 2,
+    "location": "Dhaka",
+    "description": "Healthy black goat perfect for Qurbani sacrifice.",
+    "image": "https://i.ibb.co.com/1GpJzTyn/images-1.jpg",
+    "category": "Small Animal"
+  },
+  {
+    "id": 3,
+    "name": "White Beauty Cow",
+    "type": "Cow",
+    "breed": "Friesian Mix",
+    "price": 150000,
+    "weight": 320,
+    "age": 4,
+    "location": "Sirajganj",
+    "description": "Big healthy cow with high milk genetics and strong body.",
+    "image": "https://i.ibb.co.com/39hgjfMM/images-2.jpg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 4,
+    "name": "Golden Goat",
+    "type": "Goat",
+    "breed": "Boer Mix",
+    "price": 60000,
+    "weight": 40,
+    "age": 3,
+    "location": "Rajshahi",
+    "description": "Strong and healthy golden color goat for Qurbani.",
+    "image": "https://i.ibb.co.com/7xF4MDkp/images-3.jpg",
+    "category": "Small Animal"
+  },
+  {
+    "id": 5,
+    "name": "Red Deshi Cow",
+    "type": "Cow",
+    "breed": "Local Red Deshi",
+    "price": 110000,
+    "weight": 260,
+    "age": 3,
+    "location": "Cumilla",
+    "description": "Strong red deshi cow raised naturally in village farm.",
+    "image": "https://i.ibb.co.com/Y7YWmSzC/images-4.jpg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 6,
+    "name": "Mini White Goat",
+    "type": "Goat",
+    "breed": "Local Mix",
+    "price": 30000,
+    "weight": 25,
+    "age": 1,
+    "location": "Chattogram",
+    "description": "Small healthy goat, easy to handle and perfect for Qurbani.",
+    "image": "https://i.ibb.co.com/w1hPDyx/images-5.jpg",
+    "category": "Small Animal"
+  }
+]
