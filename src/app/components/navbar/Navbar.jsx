@@ -113,7 +113,7 @@ const Navbar = () => {
             <CiLogout /> Logout
           </Link>
 
-        
+        </div>
       )}
 
     </div>
