@@ -176,7 +176,7 @@ const AnimalDetails = () => {
 
       
       <ToastContainer />
-    
+    </div>
   );
 };
 
